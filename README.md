@@ -1,3 +1,92 @@
 # awesome-NeRFs-3DGS
 A list of resources to start with Neural Radiance Fields (NeRFs) and 3D Gaussian Splatting (3DGS). </br>
 From foundations to novelty, tailored for Robotics applications and the underwater domain.
+
+## Table of Contents
+
+- [Foundations](#foundations)
+- [NeRFs](#neural-radiance-fields)
+- [3DGS](#3d-gaussian-splatting)
+- [Tools](#tools)
+
+## Foundations 
+
+Basic theory to understand Volumetric Rendering techniques. 
+  
+## Neural Radiance Fields
+
+Resources to start understanding and working with NeRFs.
+
+### Papers and Books
+
+<details open>
+<summary>Vanilla</summary>
+  
+</details>
+
+<details open>
+<summary>Improvements</summary>
+  
+</details>
+
+<details open>
+<summary>Multi-Modal</summary>
+
+</details>
+  
+<details open>
+<summary>SLAM</summary>
+
+</details>
+
+<details open>
+<summary>Semantic</summary>
+
+</details>
+
+### Blog Posts 
+
+### Videos
+
+
+## 3D Gaussian Splatting
+
+Resources to start understanding and working with 3DGS.
+
+### Papers and Books
+
+<details open>
+<summary>Vanilla</summary>
+  
+</details>
+
+<details open>
+<summary>Improvements</summary>
+  
+</details>
+
+<details open>
+<summary>Multi-Modal</summary>
+
+</details>
+  
+<details open>
+<summary>SLAM</summary>
+
+</details>
+
+<details open>
+<summary>Semantic</summary>
+
+</details>
+
+### Blog Posts 
+
+### Videos
+
+## Tools
+
+Usefull software tools and code implementation to work with NeRFs and 3DGS.
+
+
+
