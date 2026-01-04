@@ -31,7 +31,8 @@ Mildenhall et al., ECCV 2020
   
   - [SeaThru-NeRF: Neural Radiance Fields in Scattering Media](https://sea-thru-nerf.github.io) <br/>
       Deborah Levy et al., CVPR 2023
-</details
+
+</details>
   
 <details open>
 <summary>Vanilla NeRFs</summary>
