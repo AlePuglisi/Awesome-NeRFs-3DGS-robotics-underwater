@@ -21,7 +21,7 @@ Basic theory to understand Volumetric Rendering techniques.
 
 Resources to start understanding and working with NeRFs.
 
-### Papers and Books
+### Papers
 
 [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf) <br/>
 Mildenhall et al., ECCV 2020
@@ -60,6 +60,8 @@ Mildenhall et al., ECCV 2020
 
 </details>
 
+### Books' Chapters
+
 ### Blog Posts 
 
 ### Videos
@@ -69,7 +71,7 @@ Mildenhall et al., ECCV 2020
 
 Resources to start understanding and working with 3DGS.
 
-### Papers and Books
+### Papers 
 [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) <br/>
 Kerbl et al., ACM Transactions on Graphics 2023
 
@@ -118,6 +120,8 @@ Kerbl et al., ACM Transactions on Graphics 2023
 <summary>Semantic</summary>
 
 </details>
+
+### Books' Chapters
 
 ### Blog Posts 
 
