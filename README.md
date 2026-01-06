@@ -131,12 +131,15 @@ Kerbl et al., ACM Transactions on Graphics 2023
 
 Usefull software tools and code implementation to work with NeRFs and 3DGS.
 
-- **colmap** [github](https://github.com/colmap/colmap)  | [docs](https://colmap.github.io/) <br/>
+- **colmap**<br/>
+  [github](https://github.com/colmap/colmap)  | [docs](https://colmap.github.io/) <br/>
   Structure from Motion (SfM) pipeline required by radiance fields methods for preliminary camera pose estimation and sparse reconstruction.
   
-- **viser** [github](https://github.com/nerfstudio-project/viser)  | [docs](https://viser.studio/main/) <br/>
+- **viser**<br/>
+  [github](https://github.com/nerfstudio-project/viser)  | [docs](https://viser.studio/main/) <br/>
   3D visualization library for computer vision and robotics in Python.
   
-- **nerfstudio** [github](https://github.com/nerfstudio-project/nerfstudio) | [docs](https://docs.nerf.studio/)  <br/>
+- **nerfstudio**<br/>
+  [github](https://github.com/nerfstudio-project/nerfstudio) | [docs](https://docs.nerf.studio/)  <br/>
   Ready to use API to work with NeRFs and 3DGS  
 
