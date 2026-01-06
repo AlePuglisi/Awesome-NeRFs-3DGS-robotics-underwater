@@ -12,10 +12,17 @@ inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
 
 ## Foundations 
 
+### The Basics
+
 Basic theory to understand Volumetric Rendering techniques. 
 
 - [The Plenoptic Function and the Elements of Early Vision](https://persci.mit.edu/pub_pdfs/elements91.pdf) <br/>
   Edward H. Adelson and James R. Bergen, Computational models of visual processing (pp. 3–20). The MIT Press. 1991
+
+### Related Works
+
+- [Implicit Neural Representations with Periodic Activation Functions](https://arxiv.org/abs/2006.09661) <br>
+  Vincent Sitzmann et el., arxiv Jun. 2020
   
 ## Neural Radiance Fields
 
@@ -37,7 +44,9 @@ Mildenhall et al., ECCV 2020
 
   - [SeaThru-NeRF: Neural Radiance Fields in Scattering Media](https://sea-thru-nerf.github.io) <br/>
       Deborah Levy et al., CVPR Apr. 2023
-    
+
+  - [Neural Implicit Surface Reconstruction using Imaging Sonar](https://arxiv.org/abs/2209.08221) <br/>
+    Mohamad Qadri et al., arxiv Sep. 2022
 </details>
 
 <details open>
