@@ -45,7 +45,7 @@ Mildenhall et al., ECCV 2020
   - [SeaThru-NeRF: Neural Radiance Fields in Scattering Media](https://sea-thru-nerf.github.io) <br/>
       Deborah Levy et al., CVPR Apr. 2023
 
-  - [Neural Implicit Surface Reconstruction using Imaging Sonar](https://arxiv.org/abs/2209.08221) <br/>
+  - [Neural Implicit Surface Reconstruction using Imaging Sonar](https://arxiv.org/abs/2209.08221) | [github](https://github.com/rpl-cmu/neusis) <br/>
     Mohamad Qadri et al., arxiv Sep. 2022
 </details>
 
