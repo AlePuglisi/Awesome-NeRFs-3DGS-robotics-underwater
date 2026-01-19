@@ -40,6 +40,7 @@ Mildenhall et al., ECCV 2020
   
 </details>
 
+
 <details open>
 <summary>Underwater NeRFs</summary>
 
@@ -56,10 +57,6 @@ Mildenhall et al., ECCV 2020
     Mohamad Qadri et al., arxiv Sep. 2022
 </details>
 
-<details open>
-<summary>Multi-Modal</summary>
-
-</details>
   
 <details open>
 <summary>SLAM</summary>
@@ -144,10 +141,6 @@ Kerbl et al., ACM Transactions on Graphics 2023
 
 </details>
 
-<details open>
-<summary>Multi-Modal</summary>
-
-</details>
   
 <details open>
 <summary>SLAM</summary>
