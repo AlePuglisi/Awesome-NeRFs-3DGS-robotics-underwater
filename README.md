@@ -131,10 +131,17 @@ Kerbl et al., ACM Transactions on Graphics 2023
     
   - [WaterSplatting Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting](https://water-splatting.github.io) <br/>
      Huapeng Li et al., 3DV May 2025
-
+    
+  - [Spatiotemporal Degradation-Aware 3D Gaussian Splatting forRealistic Underwater Scene Reconstruction](https://dl.acm.org/doi/abs/10.1145/3746027.3754888) <br/>
+     Shaohua Liu et al., Association for Computing Machinery, 2025
+    
+  - [UW-GS: Distractor-Aware 3D Gaussian Splatting for Enhanced Underwater Scene Reconstruction](https://ieeexplore.ieee.org/document/10943785) | [github](https://github.com/WangHaoran16/UW-GS)
+     Haoran Wang et al., IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025
+    
   - [Z-Splat: Z-Axis Gaussian Splatting for Camera-Sonar Fusion](https://arxiv.org/abs/2404.04687) | [github](https://github.com/QuintonQu/gaussian-splatting-with-depth/tree/gaussian-splatting-with-depth-FLS-2) <br/>
       Ziyuan Qu et al., arXiv Jul. 2024
     
+
 </details>
 
 <details open>
